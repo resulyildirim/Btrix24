@@ -1,8 +1,12 @@
 package tests;
-public static void main(String[]args){
 
-        }
+public class login {
+    public static void main(String[] args) {
+        System.out.println( "HI,HI,HI");
 
 
+    }
+
+}
 
 
