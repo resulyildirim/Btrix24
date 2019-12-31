@@ -7,4 +7,18 @@ public static void main(String[] args) {
         //I would like try one more
     }
 
+
+    public void Hello(){
+        System.out.println("Hi from inteliJ");
+    }
 }
+
+
+
+
+
+
+
+
+
+
