@@ -7,4 +7,7 @@ public static void main(String[] args) {
         //I would like try one more
     }
 
-}
+        public String Hi(){
+        return "Hi from github";
+        }
+      
